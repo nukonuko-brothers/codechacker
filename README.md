@@ -11,5 +11,5 @@ Python script to check code compliance with PEP 8 style guide.
    cd code-checker
 2. Install dependencies:
 
-　```bash
- pip install .
+   ```bash
+   pip install .
