@@ -1,16 +1,15 @@
-# Python Code Checker
+# Code Checker
 
-This is a simple Python code checker that verifies compliance with PEP 8 style guidelines.
+Python script to check code compliance with PEP 8 style guide.
 
 ## Installation
 
-You can install the code checker using `pip`:
+1. Clone the repository:
 
-```sh
-pip install .
+   ```bash
+   git clone https://github.com/yourusername/code-checker.git
+   cd code-checker
+2. Install dependencies:
 
-
-インデントの正確性
-行の長さの制限
-変数や関数の命名規則
-不要なインポートの検出
+   ```bash
+   pip install .
